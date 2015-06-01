@@ -13,11 +13,9 @@ Contains data from U:\Clients\NSHAP\Data\biomeasures\cytokines\cytokines-8dc6902
   obs:       116,140                          W2 cytokine data (8dc6902)
  vars:            38                          16 Mar 2015 10:38
  size:   103,829,160                          (_dta has notes)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-              storage   display    value
+-----------------------------------------------------------------------------------------------------              storage   display    value
 variable name   type    format     label      variable label
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-_batch          byte    %10.0g                
+-----------------------------------------------------------------------------------------------------_batch          byte    %10.0g                
 _plate          str31   %31s                  Plate identifier (taken from folder name)
 _file           str46   %46s                  Name of raw (Excel) file
 _sheet          str16   %16s                  Name of worksheet

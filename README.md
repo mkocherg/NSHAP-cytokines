@@ -1,12 +1,10 @@
-# NSHAP-cytokines
+## NSHAP-cytokines
 Code and documentation for cytokines data
 
-# File version *`8dc6902`* (`cytokines-8dc6902.dta`)
-
+## File version *`8dc6902`* (`cytokines-8dc6902.dta`)
 On the [NSHAP website](http://nshap.uchicago.edu) navigate to Data-> Wave 2 -> Biomeasures -> Finaly cytokine dataset.
 
-# Variable description
-
+## Variable description
 ```
 
 . des, fullnames

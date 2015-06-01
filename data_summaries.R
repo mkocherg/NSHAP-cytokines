@@ -18,3 +18,5 @@ cdata <- read.dta13("cytokines-8dc6902.dta",
 maxfreq <- 20
 obs_conc_tbl <- table(cdata$obs_conc, exclude=NULL)
 cbind(sort(obs_conc_tbl[obs_conc_tbl > maxfreq], decreasing=TRUE))
+
+# edit made in branch MK-1 via web

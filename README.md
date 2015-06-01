@@ -2,7 +2,7 @@
 Code and documentation for cytokines data
 
 ## File version *`8dc6902`* (`cytokines-8dc6902.dta`)
-On the [NSHAP website](http://nshap.uchicago.edu) navigate to Data-> Wave 2 -> Biomeasures -> Finaly cytokine dataset.
+On the [NSHAP website](http://nshap.uchicago.edu) navigate to `Data-> Wave 2 -> Biomeasures -> Final cytokine dataset`.
 
 ## Variable description
 ```
@@ -62,4 +62,44 @@ f2l3            str38   %38s
 Sorted by:  _batch  _plate  _file  _sheet  _row  well
 
 ```
+
+## Further detail on each variable
+- `_batch`: 
+- `_plate`: 
+- `_file`: 
+- `_sheet`: 
+- `_row`: 
+- `file_name`: 
+- `analyte`: 
+- `acquisition_date`: 
+- `reader_serial_number`: 
+- `plate_id`: 
+- `rp1_pmt_volts`: 
+- `rp1_target`: 
+- `type`: 
+- `well`: 
+- `description`: 
+- `su_id`: 
+- `fi`: 
+- `fi_bkgd`: 
+- `obs_conc`: 
+- `exp_conc`: 
+- `obs_exp_100`: 
+- `dilution`: 
+- `outlier`: 
+- `mean_fi`: 
+- `mean_fi_bkgd`: 
+- `std_dev`: 
+- `cv`: 
+- `mean_obs_conc`: 
+- `mean_obs_exp_100`: 
+- `outlier_pair`: 
+- `qc_only`: 
+- `f1l1`: 
+- `f1l2`: 
+- `f1l3`: 
+- `f1l4`: 
+- `f2l1`: 
+- `f2l2`: 
+- `f2l3`: 
 
